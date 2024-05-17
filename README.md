@@ -16,8 +16,8 @@
 
 ### Useful links 
 
-* [R language](https://www.r-project.org/)
-* [Rstudio](https://posit.co/download/rstudio-desktop/)
+* [*R language*](https://www.r-project.org/)
+* [*Rstudio*](https://posit.co/download/rstudio-desktop/)
   
 ### Contact Information
 *codysun1107@gmail.com*
